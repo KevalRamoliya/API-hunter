@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "firstName": "km",
+      "lastName": "lknm",
+      "age": "r44",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
